@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import styles from './Footer.module.css'
 
 export default function Footer() {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
